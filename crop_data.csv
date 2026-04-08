@@ -1,0 +1,7 @@
+nitrogen,phosphorus,potassium,temperature,humidity,ph,rainfall,label
+90,42,43,20.8,82.0,6.5,202,rice
+85,58,41,21.7,80.0,6.2,210,rice
+60,55,44,26.0,60.0,6.8,120,wheat
+62,60,42,25.5,65.0,6.5,110,wheat
+22,72,85,28.0,70.0,7.0,150,maize
+20,70,80,27.5,68.0,6.9,140,maize
